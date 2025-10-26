@@ -1,5 +1,7 @@
-## Hey 👋, I'm Jay  
-  
+<h1 align="center">Hola, I'm Jay </h1>
+
+<div align="center">
+    
 <a href="https://github.com/yosoyjayakumar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -15,8 +17,8 @@
 <a href="https://instagram.com/yosoyjayakumar" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+</div>
 
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=jayakumar143&&style=flat-square)  
- 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yosoyjayakumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
