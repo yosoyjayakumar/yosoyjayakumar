@@ -1,7 +1,7 @@
 <h1 align="center">Hola, I'm Jay </h1>
 
+## Connect
 <div align="center">
-    
 <a href="https://github.com/yosoyjayakumar" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,6 +19,14 @@
 </a>  
 </div>
 
+## Github Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yosoyjayakumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+<br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yosoyjayakumar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
