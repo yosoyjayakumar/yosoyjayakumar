@@ -18,15 +18,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-## Github Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=yosoyjayakumar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yosoyjayakumar&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
